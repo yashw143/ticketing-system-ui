@@ -8,6 +8,14 @@ This repo contains the **Angular frontend**. The backend lives in a [separate re
 
 ## Live Demo
 
+
+## Live Demo
+
+🔗 **UI:** https://ticket-ui.livelysmoke-87eb6925.centralindia.azurecontainerapps.io  
+🔗 **API Swagger:** https://ticket-api.livelysmoke-87eb6925.centralindia.azurecontainerapps.io/swagger
+
+Running on Azure Container Apps with auto-scaling, Azure SQL Database, and full CI/CD.
+
 Clone, then bring up the entire stack with one command:
 
 ```bash
