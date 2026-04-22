@@ -8,7 +8,9 @@ import { Ticket } from '../models/ticket.model';
 })
 export class TicketService {
 
-  private baseUrl = 'http://localhost:5000/api/Tickets';
+  // private baseUrl = 'http://localhost:5000/api/Tickets';
+
+  private baseUrl = 'https://ticket-api.livelysmoke-87eb6925.centralindia.azurecontainerapps.io/api/tickets';
 
   constructor(private http: HttpClient) {}
 
